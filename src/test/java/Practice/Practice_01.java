@@ -13,8 +13,8 @@ public class Practice_01 {
 //running for loop
         for(int i=0; i< car.size(); i++  ) {
 
-            System.out.println("My favorite car is " + car.get(i));
-            Thread.sleep(1000);
+            System.out.println("My favorite cars is " + car.get(i));
+
         }//end of for loop
 
 
